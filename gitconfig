@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jbguelaud@gmail.com
+	name = Jean-Baptiste Guelaud
